@@ -2,8 +2,8 @@
   "title": "Github Nuxt Content DOcs",
   "url": "https://kevcodez.github.io/github-nuxt-content-docs",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/github-nuxt-content-docs/logo-light.svg",
+    "dark": "/github-nuxt-content-docs/logo-dark.svg"
   },
   "github": "kevcodez/github-nuxt-content-docs",
   "twitter": "kevcodez"
