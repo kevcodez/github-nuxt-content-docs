@@ -1,0 +1,10 @@
+{
+  "title": "Github Nuxt Content DOcs",
+  "url": "https://kevcodez.github.io/github-nuxt-content-docs",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "kevcodez/github-nuxt-content-docs",
+  "twitter": "kevcodez"
+}
