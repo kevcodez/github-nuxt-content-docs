@@ -1,9 +1,9 @@
-name: cd
+name: docs
 
 on: [push, pull_request]
 
 jobs:
-  cd:
+  docs:
     runs-on: ${{ matrix.os }}
     env:
       working-directory: docs
